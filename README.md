@@ -1,5 +1,7 @@
 # Quiz Application
 
+![GitHub pull requests](https://img.shields.io/github/issues-pr/dev-47/quiz-app?style=for-the-badge) ![GitHub issues](https://img.shields.io/github/issues-raw/dev-47/quiz-app?style=for-the-badge)
+
 Users can create quiz questions, share the link to people who are also on the platform to answer it. Basic as that
 
 # Platform Availability
@@ -28,3 +30,11 @@ The web version is current at https://dev-47-quiz-app.netlify.app/
 Check app releases at https://github.com/Dev-47/quiz-app/releases/
 
 > Currently available for android only
+
+# Contributors
+
+<a href="https://github.com/dev-47/quiz-app/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=dev-47/quiz-app" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
